@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: black url("/static/css/img/pexels-timo-volz-9523.jpg");
+  background: black url("../../../static/css/img/pexels-timo-volz-9523.jpg");
   background-position: center;
   background-repeat: no-repeat;
 }
